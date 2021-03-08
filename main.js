@@ -2,6 +2,47 @@
  * YOUR CODE BELOW! *
  ********************/
 
+const moreThan5 = (8 > 5);
+moreThan5 ;  
+
+const isNewTopScore = (5 > 15);
+isNewTopScore;
+
+const isInDanger = (72 < 71);
+isInDanger; 
+
+const isCoasting = (71 > 83);
+isCoasting;
+
+const isSucceeding = (93 < 92);
+isSucceeding;
+
+const isFailing = (59 < 60);
+isFailing;
+
+const isAcing = (93 > 92);
+isAcing; 
+
+const isStudent = ("student" == "student");
+isStudent;
+
+const isTeacher = ("teacher " == "teecher");
+isTeacher; 
+
+const isAdmin = ("admin" == "administration")
+isAdmin;
+
+const isElementary = ("elementary" == "elementary");
+isElementary;
+
+const areDifferentPeople = ("colin, messi" == "alex, messi");
+areDifferentPeople;
+
+const isMiddleSchoolTeacher = ("teacher", "7" == "teacher, 6");
+isMiddleSchoolTeacher;
+
+const notAnElementarySchoolAdministrator = ("elementary, admin" == "elementary, admin");
+notAnElementarySchoolAdministrator
 
 
 
